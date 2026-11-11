@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-label="reparacao">
+     <path d="M14 78V32C14 17 29 10 48 10s34 10 34 22v46" fill="#F4F0E7" stroke="#0B2835" stroke-width="3.4" stroke-linecap="round"/>
+     <circle cx="71" cy="20" r="6.5" fill="#DBA463"/>
+     <rect x="19" y="24" width="58" height="22" rx="7" fill="#FEFAF3" stroke="#0B2835" stroke-width="2.5"/><path d="M25 40h46" stroke="#2F7F86" stroke-width="2"/><path d="M62 51l-24 24-10-10 24-24" fill="#DBA463" stroke="#0B2835" stroke-width="3" stroke-linejoin="round"/><path d="M62 47c7-10 16 0 10 8l-7-6" fill="#FEFAF3" stroke="#0B2835" stroke-width="3"/>
+     <path d="M5 81c18 0 26-7 42-5 15 2 26 9 44 3" fill="none" stroke="#2F7F86" stroke-width="5" stroke-linecap="round"/>
+     <path d="M12 88c20-8 28-4 42-2 13 2 20 2 31-2" fill="none" stroke="#DBA463" stroke-width="3.3" stroke-linecap="round"/>
+    </svg>
